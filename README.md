@@ -3,7 +3,7 @@
 
 # Osama Al-Atroush
 
-**Product Lead · Ex-Founder (Acquired) · B2B Marketplace · ERP · AI**
+**Product Lead · Ex-Founder (Acquired) · B2B Marketplace · ERP · SaSS · AI**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/osama-alatroush)
 [![Website](https://img.shields.io/badge/Website-000000?style=flat&logo=safari&logoColor=white)](https://osama-personal.lovable.app)
