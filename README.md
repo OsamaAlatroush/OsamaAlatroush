@@ -8,7 +8,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/osama-alatroush)
 [![Website](https://img.shields.io/badge/Website-000000?style=flat&logo=safari&logoColor=white)](https://osama-personal.lovable.app)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:osama.alatroush@gmail.com)
-(https://img.shields.io/badge/Open%20to%20Work-Senior%20PM%20%7C%20AI%20PM-2ea44f?style=flat)](mailto:osama.alatroush@gmail.com)
+[![](https://img.shields.io/badge/Open%20to%20Work-Senior%20PM%20%7C%20AI%20PM-2ea44f?style=flat)](mailto:osama.alatroush@gmail.com)
 
 </div>
 
