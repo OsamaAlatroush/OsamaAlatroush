@@ -8,7 +8,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/osama-alatroush)
 [![Website](https://img.shields.io/badge/Website-000000?style=flat&logo=safari&logoColor=white)](https://osama-personal.lovable.app)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:osama.alatroush@gmail.com)
-[![Open to Work](https://img.shields.io/badge/Open%20to%20Work-Senior%20PM%20%7C%20AI%20PM-2ea44f?style=flat)](mailto:osama.alatroush@gmail.com)
+(https://img.shields.io/badge/Open%20to%20Work-Senior%20PM%20%7C%20AI%20PM-2ea44f?style=flat)](mailto:osama.alatroush@gmail.com)
 
 </div>
 
@@ -18,7 +18,7 @@
 
 I'm a Product Lead with 6+ years building B2B platforms across healthtech, marketplace, and ERP - and a founder who built a pharma marketplace from zero, scaled it, and exited via acquisition.
 
-Post-acquisition, I joined the acquirer (Aumet) and led product across a 15K+ pharmacy network spanning Egypt, Jordan, KSA, and Turkey - processing **$120M GMV** and **2M+ orders annually**.
+Post-acquisition, I joined the acquirer (Aumet) and led product across a 15K+ pharmacy network spanning Egypt, Jordan, KSA, and Turkey - scaling up to **$120M GMV** and **2M+ orders annually**.
 
 Most recently, I built and shipped a full multi-module pharmacy ERP from scratch - using AI tooling to compress 6 months of design into 8 weeks.
 
